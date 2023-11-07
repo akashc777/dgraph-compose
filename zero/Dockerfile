@@ -1,7 +1,5 @@
 FROM dgraph/dgraph:latest
 
-VOLUME ["data"]
-
 EXPOSE 5080
 
 EXPOSE 6080
